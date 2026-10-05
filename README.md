@@ -10,9 +10,22 @@ The final dashboard provides a consolidated view of sales performance, customer 
 
 ## Business Problem
 
-The business has a large volume of sales, customer, product, and shipping data stored in Excel, making it difficult to quickly identify sales trends, high-performing products and customers, regional performance, and delivery efficiency.
+The business has a large volume of sales, customer, product, and shipping data stored in csv format, making it difficult to quickly identify sales trends, high-performing products and customers, regional performance, and delivery efficiency.
 
-The objective of this project is to clean and analyze the sales data and create a clear Excel dashboard that helps the business understand its overall performance and identify areas for improvement.
+The objective is to clean and analyze the sales data using Excel and create a clear sales analysis report that helps the business understand its overall performance and identify areas for improvement.
+
+The analysis will focus on:
+
+* Tracking total sales and order performance.
+* Identifying monthly and yearly sales trends.
+* Analyzing sales by category and sub-category.
+* Identifying top-performing products and customers.
+* Comparing sales across regions and customer segments.
+* Analyzing customer value and total sales per customer.
+* Evaluating delivery time and shipping modes.
+* Identifying key trends and business insights from the data.
+
+The goal is to transform raw sales data into meaningful insights that can support better sales, customer, and operational decisions.
 
 ### Key Business Questions
 
@@ -56,7 +69,7 @@ The dataset contains sales, customer, product, regional, and shipping informatio
 * Ship Year
 * Total Sales Per Customer
 * Customer Value
-* Delivery Days
+* Delivery Time
 
 ---
 
@@ -118,7 +131,7 @@ The analysis was performed using **Excel PivotTables** and calculated fields.
 
 ## Dashboard
 
-The final Excel dashboard provides a single-page summary of the analysis.
+![](Dashboard_page_001.png)
 
 ### KPI Cards
 
@@ -213,14 +226,3 @@ Interactive Excel Dashboard
 
 This project demonstrates how Excel can be used to transform raw sales data into a structured analytical dashboard. The dashboard provides a consolidated view of sales performance, customers, products, regions, segments, and delivery efficiency to support data-driven business decisions.
 
----
-
-## Author
-
-**Ankit Chaudhari**
-
-MCA Graduate | Data Analyst
-
-Skills: **Excel | SQL | Python | Power BI | Data Analysis**
-
-GitHub: [Ankit-Chaudhari-Lab](https://github.com/Ankit-Chaudhari-Lab)
