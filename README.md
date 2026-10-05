@@ -131,7 +131,7 @@ The analysis was performed using **Excel PivotTables** and calculated fields.
 
 ## Dashboard
 
-![](Dashboard_page_001.png)
+![Dashboard](Dashboard_page_001.png)
 
 ### KPI Cards
 
